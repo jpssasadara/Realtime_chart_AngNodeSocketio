@@ -1,0 +1,3 @@
+[submodule "Look/Dashboard-U"]
+	path = Look/Dashboard-U
+	url = https://github.com/jpssasadara/Realtime_chart_AngNodeSocketio
